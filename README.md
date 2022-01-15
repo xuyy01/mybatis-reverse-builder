@@ -1,1 +1,1 @@
-# mybatis-reverse-builder
+# project-assistant
